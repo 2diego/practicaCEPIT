@@ -1,2 +1,2 @@
-# practicaCEPIT
-Repositorio de practica - CEPIT
+﻿# Ejercicio-veterinaria-fip
+Miembros: Urbina Alexis, Maldonado Diego, Durdos Facundo
